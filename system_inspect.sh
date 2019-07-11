@@ -12,4 +12,4 @@ yum install cowsay
 yum info cowsay
 
 separator
-
+journalctl | tail
